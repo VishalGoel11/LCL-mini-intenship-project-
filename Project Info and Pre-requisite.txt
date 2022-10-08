@@ -1,0 +1,57 @@
+Project Pre-Requistie :-
+
+1.) Core Java:-
+	      a.) Oops Using Java
+	      b.) Java Swing 
+	      c.) Familiar With Jdk version 8
+	      d.) Basic Coding skill
+
+
+
+2.) Project Info:-  In the Project , I tried to merge 3 mini-project named Love Calculator , Login Form , Simple Calculator . Each of the 3 min-project has it its own task .
+
+	a.) Love Calculator :- 
+		
+		A.) How to use it ?
+			1.) This is used to find the love percentage of the user with his/her beloved one .
+			2.) User must enter his / her name in 1st input box and her/his beloved one in the 2nd one.
+			3.)  On clicking on the button love percentage between both the person will display on the screen 
+		B.) What is the Logic ?
+			In the Love Calcy , first I have created a Frame with required button , Label and TextField . 
+			then, I have stored both the name of the candidate in String variable using "getText" method .
+			Now, I have searched each character of beloved one in the user name using 2 for loops and if it matches
+			then , increase the value of the a integer variable name "result" by 10 . IF any how, value of result go beyond 
+			100 it will become 100 . After searching each character from beloved one to user name ,the final result 
+			is displayed on the frame using label class and it's "setText" method.
+		C.) What is the speciality ?
+			Whenever user enter "vishal "in 1st textField , it will always display 100 regardless of the name in the 2nd textField.
+
+	b.) Calculator :-
+
+		  A.) How to use it ?
+			1.) This is used to add , multiply ,divide and multiply the 2 number . 
+			2.) User will enter the 2 numbers in the 2 textField  .
+			3.)  On clicking on any of the multiply , add, sub, divide button  ,answer will be displayed on the screen .
+		B.) What is the Logic ?
+			Whenever the user enter the 2 number s in their respective field and click on the add button 
+			, a method named add will invoke which add the numbers . Invokinging of method can be done by using "getSource"
+			method . Same with other buttons .
+		C.) What is the speciality ?
+			No such speciality like above one is given .
+			
+	c.) Login Form;-
+
+		No , backend is prepared for this . User can Enter his/her detail in the textfield . I will upload it updated version 
+		as soon as possible.
+		
+
+
+
+
+
+
+
+
+
+
+
